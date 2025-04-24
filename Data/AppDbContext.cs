@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using appweb1.Models;
+
 namespace appweb1.Data
 {
     public class AppDbContext:DbContext
